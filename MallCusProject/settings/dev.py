@@ -13,9 +13,13 @@ https://docs.djangoproject.com/en/4.1/ref/settings/
 """
 import os.path
 from pathlib import Path
+import sys
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+
+
+sys.path.insert(0,os.path.join(BASE_DIR,"apps"))
 
 
 # Quick-start development settings - unsuitable for production
@@ -39,8 +43,9 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    "user", # 用户模块
+    "contents",
 ]
-
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
@@ -49,6 +54,7 @@ MIDDLEWARE = [
     "django.contrib.auth.middleware.AuthenticationMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
+
 ]
 
 ROOT_URLCONF = "MallCusProject.urls"
@@ -108,7 +114,7 @@ DATABASES = {
     }
 }
 
-# # 配置redis数据库
+# 配置redis数据库
 # CACHES = {
 #     "default": { # 默认
 #         "BACKEND": "django_redis.cache.RedisCache",
@@ -117,18 +123,18 @@ DATABASES = {
 #             "CLIENT_CLASS": "django_redis.client.DefaultClient",
 #         }
 #     },
-#     "session": { # session
-#         "BACKEND": "django_redis.cache.RedisCache",
-#         "LOCATION": "redis://127.0.0.1:6379/0",
-#         "OPTIONS": {
-#             "CLIENT_CLASS": "django_redis.client.DefaultClient",
-#         }
-#     }
+#     # "session": { # session
+#     #     "BACKEND": "django_redis.cache.RedisCache",
+#     #     "LOCATION": "redis://127.0.0.1:6379/0",
+#     #     "OPTIONS": {
+#     #         "CLIENT_CLASS": "django_redis.client.DefaultClient",
+#     #     }
+#     # }
 # }
-#
-# #session
-# SESSION_ENGINE = "django.contrib.sessions.backends.cache"
-# SESSION_CACHE_ALIAS = "session"
+
+#session
+SESSION_ENGINE = "django.contrib.sessions.backends.cache"
+SESSION_CACHE_ALIAS = "default"
 
 
 
@@ -213,3 +219,6 @@ LOGGING = {
         },
     }
 }
+
+#指定自定义的用户模型类 ：子应用.用户模型类
+AUTH_USER_MODEL = "user.User"

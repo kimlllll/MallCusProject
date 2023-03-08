@@ -1,0 +1,556 @@
+INFO 2023-02-27 20:13:24,072 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-27 20:21:51,544 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-27 20:21:53,717 basehttp 187 "GET / HTTP/1.1" 200 10681
+INFO 2023-02-27 20:21:53,810 basehttp 187 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2023-02-27 20:21:53,875 basehttp 187 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2023-02-27 20:21:53,875 basehttp 187 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2023-02-27 20:21:53,876 basehttp 187 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+WARNING 2023-02-27 20:21:53,888 log 241 Not Found: /favicon.ico
+WARNING 2023-02-27 20:21:53,890 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2118
+WARNING 2023-02-27 20:22:20,612 basehttp 187 "GET /static/image/adv01.jpg HTTP/1.1" 404 1804
+INFO 2023-02-27 20:24:11,736 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\settings\dev.py changed, reloading.
+INFO 2023-02-27 20:26:32,519 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-27 20:26:34,669 basehttp 187 "GET / HTTP/1.1" 200 10681
+INFO 2023-02-27 20:26:50,179 basehttp 187 "GET /static/images/adv01.jpg HTTP/1.1" 200 39831
+INFO 2023-02-27 20:41:25,302 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-27 20:41:50,757 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-27 20:42:34,811 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-27 20:42:46,439 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-27 20:44:34,137 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-27 20:45:46,996 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 18:32:15,026 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 18:34:54,564 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\settings\dev.py changed, reloading.
+INFO 2023-02-28 18:34:55,082 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 18:34:59,494 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\settings\dev.py changed, reloading.
+INFO 2023-02-28 18:35:00,023 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 18:35:02,413 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\settings\dev.py changed, reloading.
+INFO 2023-02-28 18:36:39,814 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 18:37:19,233 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 18:42:37,327 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\settings\dev.py changed, reloading.
+INFO 2023-02-28 18:42:37,982 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:01:38,702 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\urls.py changed, reloading.
+INFO 2023-02-28 19:01:39,314 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:02:09,845 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\urls.py changed, reloading.
+INFO 2023-02-28 19:02:10,460 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:02:52,377 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\urls.py changed, reloading.
+INFO 2023-02-28 19:02:52,976 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:03:16,194 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\urls.py changed, reloading.
+INFO 2023-02-28 19:03:16,966 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:05:39,524 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-02-28 19:05:42,246 log 241 Not Found: /
+WARNING 2023-02-28 19:05:42,248 basehttp 187 "GET / HTTP/1.1" 404 2223
+INFO 2023-02-28 19:06:05,640 basehttp 187 "GET /register HTTP/1.1" 301 0
+INFO 2023-02-28 19:06:05,652 basehttp 187 "GET /register/ HTTP/1.1" 200 2984
+INFO 2023-02-28 19:06:06,378 basehttp 187 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2023-02-28 19:06:06,387 basehttp 187 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2023-02-28 19:06:06,401 basehttp 187 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2023-02-28 19:06:06,415 basehttp 187 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2023-02-28 19:06:06,445 basehttp 187 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2023-02-28 19:06:06,455 basehttp 187 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2023-02-28 19:06:06,464 basehttp 187 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2023-02-28 19:10:40,441 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\urls.py changed, reloading.
+INFO 2023-02-28 19:10:41,428 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:26:52,331 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\models.py changed, reloading.
+INFO 2023-02-28 19:26:53,085 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:27:16,729 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\models.py changed, reloading.
+INFO 2023-02-28 19:27:17,447 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:27:47,477 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\models.py changed, reloading.
+INFO 2023-02-28 19:27:48,230 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:28:32,388 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\models.py changed, reloading.
+INFO 2023-02-28 19:28:33,178 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:30:19,214 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\models.py changed, reloading.
+INFO 2023-02-28 19:30:19,849 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:30:47,054 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\models.py changed, reloading.
+INFO 2023-02-28 19:30:47,639 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:31:22,770 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:31:38,635 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:35:24,010 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\models.py changed, reloading.
+INFO 2023-02-28 19:35:24,818 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:43:55,114 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\settings\dev.py changed, reloading.
+INFO 2023-02-28 19:43:55,754 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:45:51,657 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\settings\dev.py changed, reloading.
+INFO 2023-02-28 19:45:52,453 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:46:34,565 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 19:47:35,164 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 20:22:16,372 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-02-28 20:22:19,552 log 241 Not Found: /
+WARNING 2023-02-28 20:22:19,553 basehttp 187 "GET / HTTP/1.1" 404 2223
+INFO 2023-02-28 20:22:31,091 basehttp 187 "GET /register/ HTTP/1.1" 200 3518
+INFO 2023-02-28 20:22:31,334 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 0
+INFO 2023-02-28 20:22:37,287 basehttp 187 "GET /register/ HTTP/1.1" 200 3518
+INFO 2023-02-28 20:22:37,307 basehttp 187 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2023-02-28 20:22:37,307 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 0
+INFO 2023-02-28 20:22:37,324 basehttp 187 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2023-02-28 20:22:37,330 basehttp 187 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2023-02-28 20:22:37,335 basehttp 187 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2023-02-28 20:22:37,357 basehttp 187 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2023-02-28 20:22:37,366 basehttp 187 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2023-02-28 20:22:37,376 basehttp 187 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+WARNING 2023-02-28 20:22:37,385 log 241 Not Found: /favicon.ico
+WARNING 2023-02-28 20:22:37,385 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2274
+INFO 2023-02-28 20:36:14,163 basehttp 187 "GET /register/ HTTP/1.1" 200 3669
+INFO 2023-02-28 20:36:14,209 basehttp 187 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-02-28 20:36:14,212 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 678
+INFO 2023-02-28 20:36:14,223 basehttp 187 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-02-28 20:50:55,714 basehttp 187 "GET /register/ HTTP/1.1" 200 3669
+INFO 2023-02-28 20:50:55,740 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 1951
+INFO 2023-02-28 20:51:43,557 basehttp 187 "GET /register/ HTTP/1.1" 200 3669
+INFO 2023-02-28 20:51:43,573 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 1977
+INFO 2023-02-28 20:51:45,225 basehttp 187 "GET /register/ HTTP/1.1" 200 3669
+INFO 2023-02-28 20:51:45,237 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-02-28 20:51:50,062 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 20:51:56,789 basehttp 187 "GET /register/ HTTP/1.1" 200 3669
+INFO 2023-02-28 20:51:56,801 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-02-28 20:52:32,373 basehttp 187 "GET /register/ HTTP/1.1" 200 3669
+INFO 2023-02-28 20:52:32,606 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 1979
+INFO 2023-02-28 20:52:33,957 basehttp 187 "GET /register/ HTTP/1.1" 200 3669
+INFO 2023-02-28 20:52:33,972 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-02-28 20:55:50,127 basehttp 187 "GET /register/ HTTP/1.1" 200 3669
+INFO 2023-02-28 20:55:50,143 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 1956
+INFO 2023-02-28 20:57:43,434 basehttp 187 "GET /register/ HTTP/1.1" 200 3671
+INFO 2023-02-28 20:57:43,457 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 1983
+INFO 2023-02-28 21:00:45,429 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:00:46,145 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:01:10,429 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:01:11,075 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:01:14,531 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:01:15,108 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:03:10,107 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:03:10,770 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:04:32,434 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:04:33,034 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:05:38,994 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:05:39,559 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:05:48,237 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:05:48,819 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:07:59,382 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:08:00,167 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:10:42,130 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:10:42,877 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:10:55,049 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:10:55,693 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:11:29,419 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:11:30,174 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:12:37,754 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:12:38,523 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:13:15,196 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:13:15,820 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:14:07,205 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:14:07,968 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:15:08,391 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:15:08,975 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:17:30,025 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:17:30,933 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:17:56,028 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:17:56,608 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:18:20,867 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:18:21,484 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:20:35,058 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:20:35,891 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:20:54,430 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:20:55,042 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:21:43,120 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-02-28 21:21:43,754 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:24:10,288 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:25:45,479 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-02-28 21:27:54,909 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 18:15:23,728 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 18:16:58,597 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 18:17:30,733 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 18:17:51,745 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 18:25:57,365 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\admin.py changed, reloading.
+INFO 2023-03-02 18:25:58,029 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 18:26:38,157 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 18:26:56,031 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\admin.py changed, reloading.
+INFO 2023-03-02 18:26:56,692 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 18:29:22,510 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-02 18:30:28,796 log 241 Not Found: /
+WARNING 2023-03-02 18:30:28,797 basehttp 187 "GET / HTTP/1.1" 404 2223
+WARNING 2023-03-02 18:30:28,868 log 241 Not Found: /favicon.ico
+WARNING 2023-03-02 18:30:28,868 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2274
+INFO 2023-03-02 18:30:33,348 basehttp 187 "GET /register/ HTTP/1.1" 200 3671
+INFO 2023-03-02 18:30:33,779 basehttp 187 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-03-02 18:30:33,782 basehttp 187 "GET /static/js/register.js HTTP/1.1" 200 1984
+INFO 2023-03-02 18:30:33,801 basehttp 187 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2023-03-02 18:30:33,814 basehttp 187 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2023-03-02 18:30:33,818 basehttp 187 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2023-03-02 18:30:33,843 basehttp 187 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2023-03-02 18:30:33,859 basehttp 187 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2023-03-02 18:30:33,870 basehttp 187 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2023-03-02 18:31:00,114 basehttp 187 "POST /register/ HTTP/1.1" 200 33
+INFO 2023-03-02 19:34:07,212 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\settings\dev.py changed, reloading.
+INFO 2023-03-02 19:34:07,959 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 19:41:24,056 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\urls.py changed, reloading.
+INFO 2023-03-02 19:41:24,660 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 19:49:56,123 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 19:50:21,952 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 19:50:23,551 basehttp 187 "GET / HTTP/1.1" 200 39137
+INFO 2023-03-02 19:50:23,977 basehttp 187 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-03-02 19:50:23,979 basehttp 187 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2023-03-02 19:50:23,981 basehttp 187 "GET /static/js/index.js HTTP/1.1" 200 1143
+INFO 2023-03-02 19:50:23,996 basehttp 187 "GET /static/images/goods/goods001.jpg HTTP/1.1" 200 5391
+INFO 2023-03-02 19:50:23,999 basehttp 187 "GET /static/images/goods/goods002.jpg HTTP/1.1" 200 5377
+INFO 2023-03-02 19:50:24,009 basehttp 187 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2023-03-02 19:50:24,068 basehttp 187 "GET /static/images/banner01.jpg HTTP/1.1" 200 23658
+INFO 2023-03-02 19:50:24,078 basehttp 187 "GET /static/images/slide01.jpg HTTP/1.1" 200 67813
+INFO 2023-03-02 19:50:24,086 basehttp 187 "GET /static/images/slide04.jpg HTTP/1.1" 200 107973
+INFO 2023-03-02 19:50:24,092 basehttp 187 "GET /static/images/goods/goods003.jpg HTTP/1.1" 200 8579
+INFO 2023-03-02 19:50:24,101 basehttp 187 "GET /static/images/goods/goods005.jpg HTTP/1.1" 200 7578
+INFO 2023-03-02 19:50:24,101 basehttp 187 "GET /static/images/goods/goods004.jpg HTTP/1.1" 200 6565
+INFO 2023-03-02 19:50:24,104 basehttp 187 "GET /static/images/banner02.jpg HTTP/1.1" 200 26729
+INFO 2023-03-02 19:50:24,109 basehttp 187 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2023-03-02 19:50:24,119 basehttp 187 "GET /static/images/adv01.jpg HTTP/1.1" 200 39831
+INFO 2023-03-02 19:50:24,131 basehttp 187 "GET /static/images/slide03.jpg HTTP/1.1" 200 70152
+INFO 2023-03-02 19:50:24,135 basehttp 187 "GET /static/images/banner03.jpg HTTP/1.1" 200 22681
+INFO 2023-03-02 19:50:24,144 basehttp 187 "GET /static/images/goods/goods008.jpg HTTP/1.1" 200 7072
+INFO 2023-03-02 19:50:24,153 basehttp 187 "GET /static/images/goods/goods009.jpg HTTP/1.1" 200 8738
+INFO 2023-03-02 19:50:24,162 basehttp 187 "GET /static/images/slide02.jpg HTTP/1.1" 200 89905
+INFO 2023-03-02 19:51:38,579 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 19:51:39,138 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 19:52:05,537 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 19:52:06,124 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 19:52:58,616 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\contents\urls.py changed, reloading.
+INFO 2023-03-02 19:52:59,373 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 19:54:01,002 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 19:55:08,310 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 19:56:03,079 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 19:56:54,434 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 19:56:55,202 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 20:00:32,871 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-02 20:00:41,373 log 241 Not Found: /
+WARNING 2023-03-02 20:00:41,373 basehttp 187 "GET / HTTP/1.1" 404 2390
+INFO 2023-03-02 20:00:44,626 basehttp 187 "GET /register/ HTTP/1.1" 200 3671
+ERROR 2023-03-02 20:01:07,856 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py", line 50, in post
+    return redirect(reversed('contents:index'))
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\urls\resolvers.py", line 803, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '<reversed object at 0x0000020B3093A6A0>' not found. '<reversed object at 0x0000020B3093A6A0>' is not a valid view function or pattern name.
+ERROR 2023-03-02 20:01:07,860 basehttp 187 "POST /register/ HTTP/1.1" 500 96968
+INFO 2023-03-02 20:02:10,977 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-02 20:02:12,327 log 241 Not Found: /
+WARNING 2023-03-02 20:02:12,329 basehttp 187 "GET / HTTP/1.1" 404 2390
+INFO 2023-03-02 20:02:17,125 basehttp 187 "GET /register/ HTTP/1.1" 200 3671
+INFO 2023-03-02 20:02:34,054 basehttp 187 "POST /register/ HTTP/1.1" 200 3671
+INFO 2023-03-02 20:03:09,684 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-02 20:03:11,609 log 241 Not Found: /
+WARNING 2023-03-02 20:03:11,609 basehttp 187 "GET / HTTP/1.1" 404 2390
+INFO 2023-03-02 20:03:16,740 basehttp 187 "GET /register/ HTTP/1.1" 200 3671
+INFO 2023-03-02 20:03:36,429 basehttp 187 "POST /register/ HTTP/1.1" 200 3671
+INFO 2023-03-02 20:04:15,151 basehttp 187 "GET /index HTTP/1.1" 301 0
+INFO 2023-03-02 20:04:15,162 basehttp 187 "GET /index/ HTTP/1.1" 200 39137
+INFO 2023-03-02 20:04:52,447 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 20:04:53,034 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 20:04:56,814 basehttp 187 "GET /register/ HTTP/1.1" 200 3671
+INFO 2023-03-02 20:05:15,034 basehttp 187 "POST /register/ HTTP/1.1" 200 3671
+INFO 2023-03-02 20:06:29,377 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 20:06:30,166 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 20:09:47,913 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-02 20:09:50,430 log 241 Not Found: /
+WARNING 2023-03-02 20:09:50,431 basehttp 187 "GET / HTTP/1.1" 404 2376
+INFO 2023-03-02 20:09:55,854 basehttp 187 "GET /register/ HTTP/1.1" 200 3679
+INFO 2023-03-02 20:10:07,549 basehttp 187 "POST /register/ HTTP/1.1" 200 3738
+INFO 2023-03-02 20:12:07,000 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 20:12:21,906 basehttp 187 "POST /register/ HTTP/1.1" 200 3738
+INFO 2023-03-02 20:12:34,845 basehttp 187 "GET /register/ HTTP/1.1" 200 3679
+INFO 2023-03-02 20:13:07,057 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 20:14:59,200 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 20:15:02,975 basehttp 187 "GET /register/ HTTP/1.1" 200 3679
+ERROR 2023-03-02 20:15:21,515 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py", line 51, in post
+    return redirect(reverse('contents:index'))
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\urls\resolvers.py", line 803, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'index' not found. 'index' is not a valid view function or pattern name.
+ERROR 2023-03-02 20:15:21,517 basehttp 187 "POST /register/ HTTP/1.1" 500 90123
+INFO 2023-03-02 20:15:51,757 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 20:15:58,350 basehttp 187 "GET /register/ HTTP/1.1" 200 3679
+ERROR 2023-03-02 20:16:14,264 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py", line 51, in post
+    return redirect(reverse('contents:index'))
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\urls\resolvers.py", line 803, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'index' not found. 'index' is not a valid view function or pattern name.
+ERROR 2023-03-02 20:16:14,267 basehttp 187 "POST /register/ HTTP/1.1" 500 90125
+INFO 2023-03-02 20:16:48,824 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 20:16:52,720 basehttp 187 "GET /register/ HTTP/1.1" 200 3679
+INFO 2023-03-02 20:17:08,640 basehttp 187 "POST /register/ HTTP/1.1" 302 0
+INFO 2023-03-02 20:17:08,643 basehttp 187 "GET /index HTTP/1.1" 301 0
+INFO 2023-03-02 20:17:08,651 basehttp 187 "GET /index/ HTTP/1.1" 200 39137
+INFO 2023-03-02 20:18:05,604 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-02 20:18:08,483 log 241 Not Found: /
+WARNING 2023-03-02 20:18:08,484 basehttp 187 "GET / HTTP/1.1" 404 2390
+INFO 2023-03-02 20:18:13,372 basehttp 187 "GET /register/ HTTP/1.1" 200 3679
+INFO 2023-03-02 20:18:32,475 basehttp 187 "POST /register/ HTTP/1.1" 302 0
+INFO 2023-03-02 20:18:32,484 basehttp 187 "GET /index/ HTTP/1.1" 200 39137
+INFO 2023-03-02 20:35:37,122 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:23:39,393 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:23:40,208 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:24:15,918 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:24:16,687 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:24:27,797 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:24:28,373 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:24:32,837 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:24:33,620 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:24:41,559 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:24:42,326 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:24:47,018 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:24:47,605 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:25:01,480 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:25:02,042 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:25:09,650 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:25:10,241 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:25:12,618 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:25:13,226 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:25:21,870 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:25:22,452 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:25:32,148 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:25:32,758 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:25:43,475 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:25:44,065 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:25:55,834 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:25:56,587 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:26:03,416 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:26:04,153 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:26:07,788 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:26:08,349 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:26:30,526 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:26:31,250 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:27:04,648 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-02 21:27:05,430 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:30:35,056 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\settings\dev.py changed, reloading.
+INFO 2023-03-02 21:30:35,618 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-02 21:31:19,246 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 18:58:18,285 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 18:58:36,023 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 18:58:40,947 log 241 Not Found: /
+WARNING 2023-03-08 18:58:40,948 basehttp 187 "GET / HTTP/1.1" 404 2390
+WARNING 2023-03-08 18:58:41,025 log 241 Not Found: /favicon.ico
+WARNING 2023-03-08 18:58:41,026 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2023-03-08 18:58:45,711 basehttp 187 "GET /register/ HTTP/1.1" 200 3679
+INFO 2023-03-08 18:58:45,804 basehttp 187 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2023-03-08 18:59:12,426 basehttp 187 "POST /register/ HTTP/1.1" 200 3738
+INFO 2023-03-08 18:59:46,817 basehttp 187 "POST /register/ HTTP/1.1" 302 0
+INFO 2023-03-08 18:59:46,868 basehttp 187 "GET /index/ HTTP/1.1" 200 39137
+INFO 2023-03-08 19:05:02,519 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:05:03,255 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:05:36,812 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:05:37,445 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:05:45,053 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:05:45,635 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:06:01,353 basehttp 187 "GET /register/ HTTP/1.1" 200 3679
+INFO 2023-03-08 19:06:24,794 basehttp 187 "POST /register/ HTTP/1.1" 200 3738
+INFO 2023-03-08 19:06:52,332 basehttp 187 "POST /register/ HTTP/1.1" 302 0
+INFO 2023-03-08 19:06:52,432 basehttp 187 "GET /index/ HTTP/1.1" 200 39137
+INFO 2023-03-08 19:07:05,200 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:07:05,808 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:07:09,337 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:07:16,638 basehttp 187 "GET /register/ HTTP/1.1" 200 3679
+INFO 2023-03-08 19:07:36,699 basehttp 187 "POST /register/ HTTP/1.1" 302 0
+INFO 2023-03-08 19:07:36,710 basehttp 187 "GET /index/ HTTP/1.1" 200 39137
+WARNING 2023-03-08 19:09:39,714 log 241 Not Found: /index/register.html
+WARNING 2023-03-08 19:09:39,715 basehttp 187 "GET /index/register.html HTTP/1.1" 404 2465
+INFO 2023-03-08 19:10:07,722 basehttp 187 "GET /register/ HTTP/1.1" 200 3679
+INFO 2023-03-08 19:18:52,031 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:18:52,895 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:19:37,938 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\urls.py changed, reloading.
+INFO 2023-03-08 19:19:38,685 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:21:17,932 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\urls.py changed, reloading.
+INFO 2023-03-08 19:21:18,493 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:21:29,221 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:21:29,831 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:22:19,107 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:22:19,699 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:22:59,562 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:23:00,202 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:23:04,706 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:23:05,323 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:32:24,088 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:32:24,888 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:32:56,354 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:32:56,990 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:33:28,484 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:33:29,126 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:35:12,314 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:35:13,020 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:36:22,756 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:36:23,315 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:36:45,562 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:36:46,301 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:37:25,014 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:37:25,576 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:38:59,468 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\views.py changed, reloading.
+INFO 2023-03-08 19:39:00,281 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 19:40:56,143 log 241 Not Found: /usernames/test1/count
+WARNING 2023-03-08 19:40:56,144 basehttp 187 "GET /usernames/test1/count HTTP/1.1" 404 2675
+INFO 2023-03-08 19:41:19,718 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 19:41:23,173 log 241 Not Found: /usernames/test1/count
+WARNING 2023-03-08 19:41:23,174 basehttp 187 "GET /usernames/test1/count HTTP/1.1" 404 2675
+INFO 2023-03-08 19:41:31,921 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 19:41:49,004 log 241 Not Found: /uernames/test1/count/
+WARNING 2023-03-08 19:41:49,005 basehttp 187 "GET /uernames/test1/count/ HTTP/1.1" 404 2675
+INFO 2023-03-08 19:42:03,333 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 19:42:04,975 log 241 Not Found: /uernames/test1/count/
+WARNING 2023-03-08 19:42:04,976 basehttp 187 "GET /uernames/test1/count/ HTTP/1.1" 404 2675
+INFO 2023-03-08 19:43:45,815 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\urls.py changed, reloading.
+INFO 2023-03-08 19:43:46,425 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:43:49,305 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 19:43:52,180 log 241 Not Found: /uernames/test1/count/
+WARNING 2023-03-08 19:43:52,181 basehttp 187 "GET /uernames/test1/count/ HTTP/1.1" 404 2672
+WARNING 2023-03-08 19:43:54,670 log 241 Not Found: /uernames/test1/count
+WARNING 2023-03-08 19:43:54,671 basehttp 187 "GET /uernames/test1/count HTTP/1.1" 404 2669
+INFO 2023-03-08 19:44:10,517 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\urls.py changed, reloading.
+INFO 2023-03-08 19:44:11,084 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:44:13,549 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 19:44:15,686 log 241 Not Found: /uernames/test1/count
+WARNING 2023-03-08 19:44:15,687 basehttp 187 "GET /uernames/test1/count HTTP/1.1" 404 2670
+INFO 2023-03-08 19:44:37,196 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:44:41,022 basehttp 187 "GET /uernames/count HTTP/1.1" 301 0
+ERROR 2023-03-08 19:44:41,062 log 241 Internal Server Error: /uernames/count/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() missing 1 required positional argument: 'username'
+ERROR 2023-03-08 19:44:41,064 basehttp 187 "GET /uernames/count/ HTTP/1.1" 500 73966
+INFO 2023-03-08 19:44:59,489 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\urls.py changed, reloading.
+INFO 2023-03-08 19:45:00,107 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 19:45:03,856 log 241 Not Found: /uername/count/
+WARNING 2023-03-08 19:45:03,857 basehttp 187 "GET /uername/count/ HTTP/1.1" 404 2651
+WARNING 2023-03-08 19:45:13,672 log 241 Not Found: /uername/test/count/
+WARNING 2023-03-08 19:45:13,673 basehttp 187 "GET /uername/test/count/ HTTP/1.1" 404 2666
+INFO 2023-03-08 19:45:48,662 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:46:07,625 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\urls.py changed, reloading.
+INFO 2023-03-08 19:46:08,356 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:46:57,917 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\urls.py changed, reloading.
+INFO 2023-03-08 19:46:58,465 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:47:05,580 basehttp 187 "GET /uername HTTP/1.1" 301 0
+ERROR 2023-03-08 19:47:05,617 log 241 Internal Server Error: /uername/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\anaconda3\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: get() missing 1 required positional argument: 'username'
+ERROR 2023-03-08 19:47:05,620 basehttp 187 "GET /uername/ HTTP/1.1" 500 73668
+INFO 2023-03-08 19:47:40,502 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\urls.py changed, reloading.
+INFO 2023-03-08 19:47:41,271 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:49:43,506 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\urls.py changed, reloading.
+INFO 2023-03-08 19:49:44,301 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:51:07,941 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\urls.py changed, reloading.
+INFO 2023-03-08 19:51:08,557 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:51:25,478 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 19:51:35,423 log 241 Not Found: /uername/test/count
+WARNING 2023-03-08 19:51:35,424 basehttp 187 "GET /uername/test/count HTTP/1.1" 404 2661
+INFO 2023-03-08 19:51:45,723 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\urls.py changed, reloading.
+INFO 2023-03-08 19:51:46,339 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:51:50,306 basehttp 187 "GET /uername/test/count HTTP/1.1" 301 0
+INFO 2023-03-08 19:51:50,353 basehttp 187 "GET /uername/test/count/ HTTP/1.1" 200 41
+INFO 2023-03-08 19:52:14,039 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 19:52:16,156 log 241 Not Found: /uername/test/count/
+WARNING 2023-03-08 19:52:16,156 basehttp 187 "GET /uername/test/count/ HTTP/1.1" 404 2662
+INFO 2023-03-08 19:52:53,429 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 19:52:55,808 log 241 Not Found: /uername/test/count/
+WARNING 2023-03-08 19:52:55,808 basehttp 187 "GET /uername/test/count/ HTTP/1.1" 404 2665
+INFO 2023-03-08 19:53:08,451 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\urls.py changed, reloading.
+INFO 2023-03-08 19:53:09,051 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:53:33,308 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\urls.py changed, reloading.
+INFO 2023-03-08 19:53:33,897 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:53:48,708 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\urls.py changed, reloading.
+INFO 2023-03-08 19:53:49,316 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:54:40,573 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 19:54:43,642 log 241 Not Found: /uername/test/count/
+WARNING 2023-03-08 19:54:43,642 basehttp 187 "GET /uername/test/count/ HTTP/1.1" 404 2667
+INFO 2023-03-08 19:54:52,451 autoreload 266 D:\pythonenve\MallCusProject\MallCusProject\apps\user\urls.py changed, reloading.
+INFO 2023-03-08 19:54:53,012 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 19:54:53,893 log 241 Not Found: /uername/test/count/
+WARNING 2023-03-08 19:54:53,893 basehttp 187 "GET /uername/test/count/ HTTP/1.1" 404 2663
+INFO 2023-03-08 19:55:10,737 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 19:55:13,681 log 241 Not Found: /uername/test/count/
+WARNING 2023-03-08 19:55:13,682 basehttp 187 "GET /uername/test/count/ HTTP/1.1" 404 2663
+INFO 2023-03-08 19:56:07,229 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 19:56:12,184 log 241 Not Found: /uername/test/count/
+WARNING 2023-03-08 19:56:12,185 basehttp 187 "GET /uername/test/count/ HTTP/1.1" 404 2662
+INFO 2023-03-08 19:56:21,298 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 19:56:22,956 log 241 Not Found: /uername/test/count/
+WARNING 2023-03-08 19:56:22,957 basehttp 187 "GET /uername/test/count/ HTTP/1.1" 404 2643
+INFO 2023-03-08 19:56:32,747 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 19:56:34,636 basehttp 187 "GET /uername/test/count/ HTTP/1.1" 200 41
+INFO 2023-03-08 19:56:41,352 basehttp 187 "GET /uername/test1/count/ HTTP/1.1" 200 41
+INFO 2023-03-08 20:04:24,224 autoreload 677 Watching for file changes with StatReloader
+INFO 2023-03-08 20:04:31,287 basehttp 187 "GET /register/ HTTP/1.1" 200 3679
+WARNING 2023-03-08 20:05:15,671 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-03-08 20:05:42,303 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 20:05:44,319 log 241 Not Found: /
+WARNING 2023-03-08 20:05:44,320 basehttp 187 "GET / HTTP/1.1" 404 2568
+INFO 2023-03-08 20:05:52,602 basehttp 187 "GET /register/ HTTP/1.1" 200 3679
+WARNING 2023-03-08 20:05:57,923 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-03-08 20:06:28,180 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 20:06:29,419 log 241 Not Found: /
+WARNING 2023-03-08 20:06:29,420 basehttp 187 "GET / HTTP/1.1" 404 2568
+INFO 2023-03-08 20:06:34,364 basehttp 187 "GET /register/ HTTP/1.1" 200 3679
+WARNING 2023-03-08 20:06:51,964 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-03-08 20:07:25,609 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 20:07:29,590 log 241 Not Found: /
+WARNING 2023-03-08 20:07:29,590 basehttp 187 "GET / HTTP/1.1" 404 2568
+WARNING 2023-03-08 20:07:29,648 log 241 Not Found: /favicon.ico
+WARNING 2023-03-08 20:07:29,649 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2619
+INFO 2023-03-08 20:07:35,090 basehttp 187 "GET /register/ HTTP/1.1" 200 3679
+WARNING 2023-03-08 20:07:40,771 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+WARNING 2023-03-08 20:08:28,804 log 241 Not Found: /
+WARNING 2023-03-08 20:08:28,805 basehttp 187 "GET / HTTP/1.1" 404 2568
+WARNING 2023-03-08 20:08:28,877 log 241 Not Found: /favicon.ico
+WARNING 2023-03-08 20:08:28,878 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2619
+INFO 2023-03-08 20:08:32,958 basehttp 187 "GET /register/ HTTP/1.1" 200 3679
+WARNING 2023-03-08 20:08:39,398 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807
+INFO 2023-03-08 20:09:25,605 autoreload 677 Watching for file changes with StatReloader
+WARNING 2023-03-08 20:09:29,334 log 241 Not Found: /
+WARNING 2023-03-08 20:09:29,335 basehttp 187 "GET / HTTP/1.1" 404 2568
+INFO 2023-03-08 20:09:33,222 basehttp 187 "GET /register/ HTTP/1.1" 200 3679
+WARNING 2023-03-08 20:09:38,101 basehttp 187 "GET /static/js/axios.min.map HTTP/1.1" 404 1807

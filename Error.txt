@@ -1,0 +1,15 @@
+错误一：继承AbstractUser时报错：
+HINT: Add or change a related_name argument to the definition for 'user.User.user_permissions' or 'auth.User.user_permissions'.
+修改：
+   在dev.py中指定自定义的用户模型类 ：子应用.用户模型类
+   AUTH_USER_MODEL = "user.User"
+
+错误二：ValueError: Dependency on app with no migrations: user
+需要迁移 迁移命令：python manage.py makemigrations
+
+错误三：RuntimeError: Model class user.models.User doesn't declare an explicit app_label and isn't in an application in INSTALLED_APPS.
+修改：https://www.cnblogs.com/springionic/p/10924104.html
+
+
+错误四:django.core.exceptions.ImproperlyConfigured: Specifying a namespace in include() without providing an app_name is not supported. Set the app_name attribute in the included module, or pass a 2-tuple containing the list of patterns and app_name instead.
+修改：https://blog.csdn.net/m0_50163856/article/details/114624518

@@ -92,6 +92,60 @@
   7.配置工程日志
   8.配置静态文件
 
+二、注册和登录
+ 1. 创建user子应用 命令：python ../../manage.py startapp users
+
+ 2. 注册 在INSTALLED_APPS注册
+    导包不成功看 https://blog.csdn.net/weixin_52260564/article/details/127246716
+
+ 3. 展示用户注册页面  1. 准备html文件  2. 定义用户注册视图 3.定义用户注册路由
+     1. 准备html文件  html文件都放在template文件夹中
+     2. 定义好响应注册html的视图 写在user的views.py中
+        2.1 class RegisterView(View): 用户注册
+            a 编写与请求方法同名的函数 get post
+     3.定义用户注册路由 在urls.py文件中
+        path("",include('user.urls'))
+        在users的urls中 ：path("register/",views.RegisterView.as_view())
+
+ 4. 用户模型类
+     定义用户模型类 使用django默认的用户认证系统作为父类 自定义的用户模型类为子类
+      在user的model.py中定义
+     迁移用户模型类：命令：python manage.py makemigrations 和 python manage.py migrate
+
+     用户模型类迁移之后，tb_user表创建完成 使用DB Browers查看
+
+ 5. 用户注册的业务实现
+    用户注册接口的设计
+    编写post方法
+    5.1 前端逻辑 使用vue 判断数据是否输错
+    5.2 后端逻辑
+        a. 接收请求 提取参数
+        b. 校验参数
+        c. 保存注册数据
+        d. 给出响应
+           创建首页模块 在dev.py中注册
+           拷贝index.html 到templates文件夹中
+           拷贝index.js到static文件夹中
+           在urls文件中注册链接  path("",include(('contents.urls','contents'))), 再在子应用的urls中注册：path("index/",views.IndexView.as_view(),name='index'),
+
+           在注册方法的最后，添加 return redirect(reverse('contents:index'))  跳转到首页
+
+
+ 6. 状态保持： 登录成功之后，需要保持状态 login()方法 django框架提供的login()方法
+ 7. 用户名和手机号码重复注册校验：发送ajax请求
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
